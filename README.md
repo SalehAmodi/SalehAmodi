@@ -20,7 +20,7 @@ I specialize in building full-featured, bilingual (Arabic/English) business web 
 An end-to-end fulfillment and storefront system unifying operations across Shopee, Lazada, and TikTok Shop.
 - **Key Features:** Automated BigSeller Excel parsing (`xlsx`), real-time stock deduction, visual picking lists, automated Waybill PDF alignment (`jsPDF`), and a bilingual customer storefront with auto-invoicing.
 - **Stack:** `MERN`, `Redux`, `Tailwind CSS`, `xlsx`, `jsPDF`, `i18next`
-- 
+- **[Watch Demo Video] *https://www.youtube.com/watch?v=hjPL6N01Jyk*
 
 #### 2. SAA-ERP | HR & Saudi Government Services Automation System
 A specialized ERP module built to streamline Saudi Government Relations (GRO) and immigration compliance workflows.
